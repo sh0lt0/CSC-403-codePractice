@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.0; //version for solidity used
+pragma solidity ^0.8.20; //version for solidity used
 
 
 contract VulnerableBank { //contract name
